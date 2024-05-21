@@ -4,13 +4,15 @@
 
 ## Description
 
-This project is a color switcher application that allows users to switch colors dynamically.
+Welcome to our dynamic image resizing page! This interactive web page allows you to effortlessly adjust the size of an image using intuitive buttons. Whether you want to enlarge or shrink the image, our easy-to-use interface ensures precise control over the image dimensions.
 
 ## Features
 
-- Dynamic Tip Calculator 
+- Interactive Image Resizing
+- Realtime Adjustements
 - User-friendly interface
-- Responsive design
+- Pixel-Perfect control 
+- Responsive Design
 
 ## Installation
 
